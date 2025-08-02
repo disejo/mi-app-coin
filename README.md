@@ -1,6 +1,9 @@
 # React + Vite
-.env 
-#file  
+
+
+# .env file
+
+
 -VITE_API_KEY=""
 -VITE_AUTH_DOMAIN=""
 -VITE_PROJECT_ID=""
