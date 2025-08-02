@@ -1,4 +1,11 @@
 # React + Vite
+.env #file
+VITE_API_KEY=""
+VITE_AUTH_DOMAIN=""
+VITE_PROJECT_ID=""
+VITE_STORAGE_BUCKET=""
+VITE_MESSAGING_SENDER_ID=""
+VITE_APP_ID=""
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
